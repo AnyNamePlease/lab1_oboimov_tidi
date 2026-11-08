@@ -12,7 +12,9 @@
 2. Первым вызовом `train_test_split(..., test_size=0.2, random_state=2026, stratify=y)` отделено 20% в **test** (480 объектов).
 3. Вторым вызовом `train_test_split(..., test_size=0.25, random_state=2026, stratify=y_train_val)` оставшиеся 1920 объектов разделены в отношении 3:1 на **train** (1440 объектов) и **validation** (480 объектов).
 
-![Датасет](figures/dataset_scatter.png)
+### ![Датасет](figures/dataset_scatter.png)
+
+
 
 ### Распределение объектов и классов
 
