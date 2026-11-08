@@ -1,17 +1,7 @@
 # Лабораторная работа: Диагностика обучения MLP
 
-## Установка окружения
-1. Создайте виртуальное окружение и активируйте его:
-   python -m venv venv
-   source venv/bin/activate  # Linux/macOS
-   # или venv\Scripts\activate  # Windows
-
-2. Установите зависимости:
-   pip install -r requirements.txt
-
 ## Запуск лабораторной работы
-Запустите основной скрипт:
-python main.py
+Запустите основной скрипт main.py
 
 ## Структура генерируемых файлов
 - `results/metrics_history.csv` — значения train/val loss и accuracy для 12 запусков (эпохи 0–100).
