@@ -80,6 +80,8 @@
 
 Не* - Не Xavier
 
+### [Таблица Accuracy](figures/exp_val_acc_seed11.png), [Таблица Loss](figures/exp_val_loss_seed11.png)
+
 ### Анализ результатов экспериментов
 
 1. **Функции активации (A–C):**
